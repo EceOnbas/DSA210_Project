@@ -39,4 +39,4 @@ As per academic integrity guidelines, the use of **Gemini (Google AI)** in this 
 5. *"Generate a Seaborn heatmap to visualize the correlation between musical components and global spread speed."*
 
 ### Human Oversight:
-While Gemini assisted with the coding syntax, the **research design, hypothesis formulation (Linguistic Barrier vs. Technical Signature), and interpretation of the 'Diaspora Effect' in the Turkey-Germany case** were developed independently by the author.
+While Gemini assisted with the coding syntax, the **research design, hypothesis formulation (Linguistic Barrier vs. Technical Signature), and interpretation of the cases** were developed independently by the author.
