@@ -268,3 +268,31 @@ As per academic integrity guidelines, the use of **Gemini (Google AI)** and Clau
 
 ### Human Oversight:
 While Gemini assisted with the coding syntax, the **research design, hypothesis formulation, and interpretation of the cases** were developed independently by the author.
+
+---
+
+## 🛠️ Reproduction Guide
+
+Follow these steps to replicate the analysis pipeline locally on your machine.
+
+### 1. Prerequisites & Environment Setup
+Make sure you have **Python 3.9+** installed. Clone this repository and navigate to its root directory:
+
+```bash
+git clone [https://github.com/EceOnbas/DSA210_Project.git](https://github.com/EceOnbas/DSA210_Project.git)
+cd DSA210_Project
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the environment
+# On Windows:
+venv\Scripts\activate
+
+# On macOS/Linux:
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+jupyter notebook Data_Analysis_Project_Milestone2.ipynb
+
